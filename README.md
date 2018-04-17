@@ -1,11 +1,11 @@
 # MyGoKit
 
-**�ĵ�˵��**
-1.4·����WIFI DTUƽ̨Э��           ϵͳDTUƽ̨Э�������ĵ�
-2.gokit-mcu-hw2-master_pass_170302  �������ն˹̼�����
-3.GOKIT�û��ֲ�-STM32�汾 V1.3      �������ն˲��Բ����û��ֲ�
-4.STM32F407�����ĵ�                 ���ݴ����м����̼����ز����ĵ�
-5.STM32���������                 �������ն˹̼����ز����ĵ�
-6.TCPЭ���ǩ                       ϵͳDTUƽ̨TCPЭ���ǩ˵���ĵ� 
-7.Tlink WiFi DTU�����ĵ�            ϵͳDTUƽ̨���Ӳ����ĵ�
-8.���ݴ����м���                    ���ݴ����м����̼�����
+**文档说明**
+1.4路串口WIFI DTU平台协议           系统DTU平台协议设置文档  
+2.gokit-mcu-hw2-master_pass_170302  机智云终端固件代码  
+3.GOKIT用户手册-STM32版本 V1.3      机智云终端测试操作用户手册  
+4.STM32F407开发文档                 数据处理中继器固件下载操作文档  
+5.STM32开发环境搭建                 机智云终端固件下载操作文档  
+6.TCP协议标签                       系统DTU平台TCP协议标签说明文档   
+7.Tlink WiFi DTU测试文档            系统DTU平台连接测试文档  
+8.数据处理中继器                    数据处理中继器固件代码  
