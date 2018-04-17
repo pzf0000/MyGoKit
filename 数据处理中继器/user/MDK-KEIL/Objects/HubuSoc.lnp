@@ -1,0 +1,17 @@
+--cpu Cortex-M4.fp
+".\objects\system_stm32f4xx.o"
+".\objects\main.o"
+".\objects\stm32f4xx_it.o"
+".\objects\stm32f4_discovery.o"
+".\objects\stm32f4xx_rcc.o"
+".\objects\misc.o"
+".\objects\stm32f4xx_gpio.o"
+".\objects\stm32f4xx_exti.o"
+".\objects\stm32f4xx_syscfg.o"
+".\objects\stm32f4xx_usart.o"
+".\objects\stm32f4xx_tim.o"
+".\objects\startup_stm32f4xx.o"
+--library_type=microlib --strict --scatter ".\Objects\HubuSoc.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\HubuSoc.map" -o .\Objects\HubuSoc.axf
